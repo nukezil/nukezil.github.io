@@ -6,8 +6,8 @@ main:
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023. 
     pdf: https://arxiv.org/pdf/2308.13168.pdf
     code: https://github.com/nukezil/IOMatch
-    poster: https://github.com/nukezil/IOMatch/blob/2d658909aa6d0c8aeccc7db676db3c186a4cad50/pubs/Poster.pdf
-    slides: https://github.com/nukezil/IOMatch/blob/2d658909aa6d0c8aeccc7db676db3c186a4cad50/pubs/Slides.pdf
+    poster: ./files/ICCV23_IOMatch_Poster.pdf
+    slides: ./files/ICCV23_IOMatch_Slides.pdf
     notes: 'Oral Presentation (152/8260=1.8%)'
 
   - title: A novel multiple instance learning framework for COVID-19 severity assessment via data augmentation and self-supervised learning
