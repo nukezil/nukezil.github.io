@@ -2,15 +2,17 @@ main:
   - title: 'Open-Domain Semi-Supervised Learning via Glocal Cluster Structure Exploitation'
     authors: <strong>Zekun Li</strong>, Lei Qi, Yawen Li, Yinghuan Shi, Yang Gao
     conference_short: TKDE
-    conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, In Press. 
-    pdf: ./files/TKDE_GlocalMatch_Preprint.pdf
+    conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, Volume 36, Issue 8, August 2024. 
+    paper: ./files/TKDE_GlocalMatch_Paper.pdf
+    link: https://ieeexplore.ieee.org/abstract/document/10443520
     code: https://github.com/nukezil/GlocalMatch
 
   - title: 'IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization'
     authors: <strong>Zekun Li</strong>, Lei Qi, Yinghuan Shi, Yang Gao
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023. 
-    pdf: https://arxiv.org/pdf/2308.13168.pdf
+    paper: https://arxiv.org/pdf/2308.13168.pdf
+    link: https://ieeexplore.ieee.org/document/10378154
     code: https://github.com/nukezil/IOMatch
     poster: ./files/ICCV23_IOMatch_Poster.pdf
     slides: ./files/ICCV23_IOMatch_Slides.pdf
@@ -20,6 +22,7 @@ main:
     authors: <strong>Zekun Li</strong>, Wei Zhao, Feng Shi, Lei Qi, Xingzhi Xie, Ying Wei, Zhongxiang Ding, Yang Gao, Shangjie Wu, Jun Liu, Yinghuan Shi, Dinggang Shen
     conference_short: MedIA
     conference: Medical Image Analysis <strong>(MedIA)</strong>, Volume 69, 2021.
-    pdf: https://arxiv.org/pdf/2102.03837.pdf
+    link: https://www.sciencedirect.com/science/article/pii/S1361841521000244
+    paper: ./files/MedIA_Paper.pdf
 
   
