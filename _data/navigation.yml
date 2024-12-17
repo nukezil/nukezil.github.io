@@ -10,15 +10,30 @@ main:
   #- title: "Talks"
   #  url: ./#invited-talks
 
-  #- title: "Teaching"
-  #  url: ./#teaching
+  # - title: "Teaching"
+  #  url: ./#experience
+
+  # - title: "Experience"
+  #     url: ./#experience
+  #     right: true 
+
+  - title: "Honors"
+    url: ./#experience
+    right: true
+
+  - title: "Experience"
+    url: ./#experience
+    # right: true
 
   - title: "Publications"
     url: ./#publications
-    right: true 
+    # right: true 
 
-  - title: "News"
-    url: ./#news
+  # - title: "News"
+  #   url: ./#news
 
-  - title: "Bio"
+  - title: "About Me"
     url: ./#about-me
+
+  
+    # right: true 
