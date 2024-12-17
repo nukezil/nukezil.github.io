@@ -25,4 +25,11 @@ main:
     link: https://www.sciencedirect.com/science/article/pii/S1361841521000244
     paper: ./files/MedIA_Paper.pdf
 
+
+  - title: 基于可泛化模型的复杂商务场景数据分析
+    authors: 史颖欢, 郭金涛, <strong>李泽昆</strong>, 祁磊, 高阳
+    # conference_short: MedIA
+    conference: 中国科学基金, 2024年第38卷第5期.
+    link: https://www.nsfc.gov.cn/csc/20345/20348/pdf/2024//202405-762-772.pdf
+    paper: https://www.nsfc.gov.cn/csc/20345/20348/pdf/2024//202405-762-772.pdf
   
