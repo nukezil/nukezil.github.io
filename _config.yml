@@ -1,15 +1,15 @@
 # Basic Information 
 title: Zekun Li (李泽昆)
-position: Ph.D. Student
+position: PhD Student
 affiliation: Nanjing University
 affiliation_link: https://cs.nju.edu.cn
 affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
 email: lizekun (at) smail.nju.edu.cn
 
 # Search Engine Optimization (SEO)
-keywords: zekun li, li zekun, zekunli, lizekun
+keywords: zekun li, li zekun, zekunli, lizekun, nukezil
 canonical: https://nukezil.github.io
-description: Zekun Li is a Ph.D. student at Nanjing University.
+description: Zekun Li is a PhD student at Nanjing University.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false

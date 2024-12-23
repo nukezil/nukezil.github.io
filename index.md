@@ -6,11 +6,10 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About Me</h2>
 
-Currently, I am a Ph.D. student of [School of Computer Science, Nanjing University](https://cs.nju.edu.cn/main.htm). I consider myself extremely fortunate to be pursuing my Ph.D. degree under the supervision of [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm). Prior to this, I obtained my bachelor’s degree from Nanjing University in 2020.
+Currently, I am a PhD student of [School of Computer Science, Nanjing University](https://cs.nju.edu.cn/main.htm). I consider myself extremely fortunate to be pursuing my PhD degree under the supervision of [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm). I am also a member of the [Reasoning and Learning Research Group](https://cs.nju.edu.cn/rl/) led by [Prof. Yang Gao](https://cs.nju.edu.cn/gaoyang/). Prior to this, I obtained my bachelor’s degree from Nanjing University in 2020.
 
-<!-- My research interests primarily focus on machine learning and computer vision. More specifically, I am dedicated to developing efficient and robust learning methods for real-world vision applications. -->
+My research interests are currently centered on Machine Learning, Computer Vision, and AI for Science . More specifically, I am dedicated to developing data-efficient learning methods for real-world applications across vision, chemistry, and materials science.
 
-**Affiliations:** [National Key Laboratory for Novel Software Technology](https://keysoftlab.nju.edu.cn/main.htm), [National Institute of Healthcare Data Science](https://hcdata.nju.edu.cn/), [Reasoning and Learning Research Group](https://cs.nju.edu.cn/rl/index.htm).
 
 <!-- {% include_relative _includes/news.md %} -->
 
