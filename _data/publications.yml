@@ -25,6 +25,15 @@ main:
     link: https://www.sciencedirect.com/science/article/pii/S1361841521000244
     paper: ./files/MedIA_Paper.pdf
 
+  - title: 'Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting'
+    authors: Maochen Yang, <strong>Zekun Li</strong>, Jian Zhang, Lei Qi, Yinghuan Shi
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+  - title: 'Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation'
+    authors: Qinghe Ma, Jian Zhang, <strong>Zekun Li</strong>, Lei Qi, Qian Yu, Yinghuan Shi
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 
   - title: 基于可泛化模型的复杂商务场景数据分析
     authors: 史颖欢, 郭金涛, <strong>李泽昆</strong>, 祁磊, 高阳
