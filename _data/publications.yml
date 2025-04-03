@@ -25,6 +25,11 @@ main:
     link: https://www.sciencedirect.com/science/article/pii/S1361841521000244
     paper: ./files/MedIA_Paper.pdf
 
+  - title: Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists
+    authors: You Wang, <strong>Zekun Li</strong>, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao
+    conference_short: TMI
+    conference: IEEE Transactions on Medical Imaging (TMI), 2025.
+
   - title: 'Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting'
     authors: Maochen Yang, <strong>Zekun Li</strong>, Jian Zhang, Lei Qi, Yinghuan Shi
     conference_short: CVPR
