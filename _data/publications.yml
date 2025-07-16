@@ -1,6 +1,6 @@
 main:
   - title: 'Open-Domain Semi-Supervised Learning via Glocal Cluster Structure Exploitation'
-    authors: <strong>Zekun Li</strong>, Lei Qi, Yawen Li, Yinghuan Shi, Yang Gao
+    authors: <strong><u>Zekun Li</u></strong>, Lei Qi, Yawen Li, Yinghuan Shi, Yang Gao
     conference_short: TKDE
     conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, Volume 36, Issue 8, August 2024. 
     paper: ./files/TKDE_GlocalMatch_Paper.pdf
@@ -8,7 +8,7 @@ main:
     code: https://github.com/nukezil/GlocalMatch
 
   - title: 'IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization'
-    authors: <strong>Zekun Li</strong>, Lei Qi, Yinghuan Shi, Yang Gao
+    authors: <strong><u>Zekun Li</u></strong>, Lei Qi, Yinghuan Shi, Yang Gao
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023. 
     paper: https://arxiv.org/pdf/2308.13168.pdf
@@ -18,27 +18,41 @@ main:
     slides: ./files/ICCV23_IOMatch_Slides.pdf
     notes: 'Oral Presentation (152/8260=1.8%)'
 
-  - title: A novel multiple instance learning framework for COVID-19 severity assessment via data augmentation and self-supervised learning
-    authors: <strong>Zekun Li</strong>, Wei Zhao, Feng Shi, Lei Qi, Xingzhi Xie, Ying Wei, Zhongxiang Ding, Yang Gao, Shangjie Wu, Jun Liu, Yinghuan Shi, Dinggang Shen
+  - title: 'A novel multiple instance learning framework for COVID-19 severity assessment via data augmentation and self-supervised learning'
+    authors: <strong><u>Zekun Li</u></strong>, Wei Zhao, Feng Shi, Lei Qi, Xingzhi Xie, Ying Wei, Zhongxiang Ding, Yang Gao, Shangjie Wu, Jun Liu, Yinghuan Shi, Dinggang Shen
     conference_short: MedIA
     conference: Medical Image Analysis <strong>(MedIA)</strong>, Volume 69, 2021.
     link: https://www.sciencedirect.com/science/article/pii/S1361841521000244
     paper: ./files/MedIA_Paper.pdf
 
-  - title: Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists
-    authors: You Wang, <strong>Zekun Li</strong>, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao
+  - title:  'Correspondence as Video Test-Time Adaption on SAM2 for Reference Segmentation in the Wild'
+    authors: Haoran Wang, <strong><u>Zekun Li</u></strong>, Jian Zhang, Lei Qi, Yinghuan Shi.
+    conference_short: ICCV
+    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025. 
+
+  - title: 'Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists'
+    authors: You Wang, <strong><u>Zekun Li</u></strong>, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao
     conference_short: TMI
-    conference: IEEE Transactions on Medical Imaging (TMI), 2025.
+    conference: IEEE Transactions on Medical Imaging <strong>(TMI)</strong>, 2025.
+    link: https://ieeexplore.ieee.org/document/10948494
+    paper: https://arxiv.org/pdf/2504.00862
+    code: https://github.com/wangyou0804/CGS
 
   - title: 'Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting'
-    authors: Maochen Yang, <strong>Zekun Li</strong>, Jian Zhang, Lei Qi, Yinghuan Shi
+    authors: Maochen Yang, <strong><u>Zekun Li</u></strong>, Jian Zhang, Lei Qi, Yinghuan Shi
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    link: https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Taste_More_Taste_Better_Diverse_Data_and_Strong_Model_Boost_CVPR_2025_paper.html
+    paper: https://arxiv.org/pdf/2503.17984
+    code: https://github.com/syhien/taste_more_taste_better
 
   - title: 'Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation'
-    authors: Qinghe Ma, Jian Zhang, <strong>Zekun Li</strong>, Lei Qi, Qian Yu, Yinghuan Shi
+    authors: Qinghe Ma, Jian Zhang, <strong><u>Zekun Li</u></strong>, Lei Qi, Qian Yu, Yinghuan Shi
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    link: https://openaccess.thecvf.com/content/CVPR2025/html/Ma_Steady_Progress_Beats_Stagnation_Mutual_Aid_of_Foundation_and_Conventional_CVPR_2025_paper.html
+    paper: https://arxiv.org/pdf/2503.16997
+    code: https://github.com/MQinghe/SynFoC
 
   - title: 基于可泛化模型的复杂商务场景数据分析
     authors: 史颖欢, 郭金涛, <strong>李泽昆</strong>, 祁磊, 高阳
