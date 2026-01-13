@@ -1,4 +1,12 @@
 main:
+  - title: 'Diffusion-Based Data Augmentation for Image Recognition: A Systematic Analysis and Evaluation'
+    authors: <strong><u>Zekun Li</u></strong>, Yinghuan Shi, Yang Gao, Dong Xu
+    conference_short: IJCV
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2026. 
+    # paper: ./files/TKDE_GlocalMatch_Paper.pdf
+    # link: https://ieeexplore.ieee.org/abstract/document/10443520
+    # code: https://github.com/nukezil/GlocalMatch
+
   - title: 'Open-Domain Semi-Supervised Learning via Glocal Cluster Structure Exploitation'
     authors: <strong><u>Zekun Li</u></strong>, Lei Qi, Yawen Li, Yinghuan Shi, Yang Gao
     conference_short: TKDE
@@ -33,7 +41,7 @@ main:
   - title: 'Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists'
     authors: You Wang, <strong><u>Zekun Li</u></strong>, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao
     conference_short: TMI
-    conference: IEEE Transactions on Medical Imaging <strong>(TMI)</strong>, 2025.
+    conference: IEEE Transactions on Medical Imaging <strong>(TMI)</strong>, Volume 44, Issue 7, 2025.
     link: https://ieeexplore.ieee.org/document/10948494
     paper: https://arxiv.org/pdf/2504.00862
     code: https://github.com/wangyou0804/CGS
