@@ -2,7 +2,7 @@ main:
   - title: 'Diffusion-Based Data Augmentation for Image Recognition: A Systematic Analysis and Evaluation'
     authors: <strong><u>Zekun Li</u></strong>, Yinghuan Shi, Yang Gao, Dong Xu
     conference_short: IJCV
-    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, Accepted in Jan 2026. 
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, Accepted, 2026. 
     # paper: ./files/TKDE_GlocalMatch_Paper.pdf
     # link: https://ieeexplore.ieee.org/abstract/document/10443520
     # code: https://github.com/nukezil/GlocalMatch
@@ -36,7 +36,10 @@ main:
   - title:  'Correspondence as Video Test-Time Adaption on SAM2 for Reference Segmentation in the Wild'
     authors: Haoran Wang, <strong><u>Zekun Li</u></strong>, Jian Zhang, Lei Qi, Yinghuan Shi.
     conference_short: ICCV
-    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025. 
+    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    link:  https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Correspondence_as_Video_Test-Time_Adaption_on_SAM2_for_Reference_Segmentation_ICCV_2025_paper.html
+    paper: https://arxiv.org/pdf/2508.07759
+    code: https://github.com/wanghr64/cav-sam
 
   - title: 'Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists'
     authors: You Wang, <strong><u>Zekun Li</u></strong>, Lei Qi, Qian Yu, Yinghuan Shi, Yang Gao
