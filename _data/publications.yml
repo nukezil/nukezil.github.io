@@ -2,10 +2,10 @@ main:
   - title: 'Diffusion-Based Data Augmentation for Image Recognition: A Systematic Analysis and Evaluation'
     authors: <strong><u>Zekun Li</u></strong>, Yinghuan Shi, Yang Gao, Dong Xu
     conference_short: IJCV
-    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, Accepted, 2026. 
-    # paper: ./files/TKDE_GlocalMatch_Paper.pdf
-    # link: https://ieeexplore.ieee.org/abstract/document/10443520
-    # code: https://github.com/nukezil/GlocalMatch
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, Volume 134, 2026. 
+    paper: ./files/IJCV_DiffDA-Eval_Paper.pdf
+    link: https://link.springer.com/article/10.1007/s11263-026-02754-x
+    code: https://github.com/nukezil/DiffDA-Eval
 
   - title: 'Open-Domain Semi-Supervised Learning via Glocal Cluster Structure Exploitation'
     authors: <strong><u>Zekun Li</u></strong>, Lei Qi, Yawen Li, Yinghuan Shi, Yang Gao
