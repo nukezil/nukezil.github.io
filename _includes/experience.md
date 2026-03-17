@@ -5,12 +5,12 @@
 <h3 style="margin: 20px 0px 10px;">Education</h3>
 <ul>
   <li>
-    <strong>PhD Student</strong>, 
-    <a href="https://cs.nju.edu.cn/">School of Computer Science, Nanjing University</a>, 
-    2020.09–
+    <strong>Ph.D.</strong>,
+    <a href="https://cs.nju.edu.cn/">School of Computer Science, Nanjing University</a>,
+    2020.09–2026.03
   </li>
   <li>
-    <strong>Bachelor</strong>, 
+    <strong>B.Sc.</strong>, 
     <a href="https://cs.nju.edu.cn/">School of Computer Science, Nanjing University</a>, 
     2016.09–2020.06
   </li>
